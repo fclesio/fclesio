@@ -20,6 +20,4 @@
 <a href="/flavioclesio.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="flavioclesio.com" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fclesio&show_icons=true&locale=en&layout=compact" alt="fclesio" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fclesio&show_icons=true&locale=en" alt="fclesio" /></p>
