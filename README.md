@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Flavio Clesio</h1>
-<h3 align="center">A passionate about Data, Machine Learning, Data Engineering and so on...</h3>
+<h3 align="center">Machine Learning, Data Engineering, MLOps, ProdOps, Engineering Culture and so on...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fclesio&label=Profile%20views&color=0e75b6&style=flat" alt="fclesio" /> </p>
 
