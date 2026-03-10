@@ -88,16 +88,4 @@ Building scalable ML systems, sharing knowledge, and improving engineering cultu
 
 </p>
 
----
-
-# ✍️ Latest Writing
-
-<!-- BLOG-POST-LIST:START -->
-- Machine Learning Systems
-- Data Engineering Architecture
-- MLOps Practices
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ⭐️ From [Flavio Clesio](https://github.com/fclesio)
