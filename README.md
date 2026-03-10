@@ -22,7 +22,7 @@ Building scalable ML systems, sharing knowledge, and improving engineering cultu
 - 🧱 Interested in **Data Platforms & Engineering Culture**  
 - ✍️ I regularly write articles at **[flavioclesio.com](https://flavioclesio.com)**  
 - 💬 Ask me about **Machine Learning, Data Engineering, and Data Science**  
-- 📫 Reach me at **flavioclesio@gmail.com**
+- 📫 Reach me at **flavioclesio at gmail.com**
 
 ---
 
@@ -41,9 +41,6 @@ Building scalable ML systems, sharing knowledge, and improving engineering cultu
 <img src="https://skillicons.dev/icons?i=medium"/>
 </a>
 
-<a href="https://flavioclesio.com">
-<img src="https://skillicons.dev/icons?i=devto"/>
-</a>
 </p>
 
 ---
@@ -52,7 +49,7 @@ Building scalable ML systems, sharing knowledge, and improving engineering cultu
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,java,scala,postgres,redis,kafka,docker,kubernetes,aws,gcp,terraform"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,kubernetes,aws,terraform"/>
 
 </p>
 
