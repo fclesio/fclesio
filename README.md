@@ -1,21 +1,103 @@
 <h1 align="center">Hi 👋, I'm Flavio Clesio</h1>
-<h3 align="center">Machine Learning Engineering, MLOps, Engineering Culture, and so on...</h3>
+<h3 align="center">Machine Learning Engineer | MLOps | Data Engineering | Engineering Culture</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fclesio&label=Profile%20views&color=0e75b6&style=flat" alt="fclesio" /> </p>
-
-<p align="left"> <a href="https://twitter.com/flavioclesio" target="blank"><img src="https://img.shields.io/twitter/follow/flavioclesio?logo=twitter&style=for-the-badge" alt="flavioclesio" /></a> </p>
-
-- 📝 I regularly write articles on [flavioclesio.com](flavioclesio.com)
-
-- 💬 Ask me about **Machine Learning, Data Engineering, Data Science**
-
-- 📫 How to reach me **flavioclesio at gmail com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/flavioclesio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="flavioclesio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/flavioclesio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="flavioclesio" height="30" width="40" /></a>
-<a href="https://medium.com/@flavioclesio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@flavioclesio" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/flavio clesio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="flavio clesio" height="30" width="40" /></a>
-<a href="/flavioclesio.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="flavioclesio.com" height="30" width="40" /></a>
+<p align="center">
+Building scalable ML systems, sharing knowledge, and improving engineering culture.
 </p>
+
+<p align="center">
+<a href="https://twitter.com/flavioclesio">
+<img src="https://img.shields.io/twitter/follow/flavioclesio?logo=twitter&style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=fclesio&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 🧠 Machine Learning & MLOps enthusiast  
+- ⚙️ Passionate about **production-grade ML systems**  
+- 🧱 Interested in **Data Platforms & Engineering Culture**  
+- ✍️ I regularly write articles at **[flavioclesio.com](https://flavioclesio.com)**  
+- 💬 Ask me about **Machine Learning, Data Engineering, and Data Science**  
+- 📫 Reach me at **flavioclesio@gmail.com**
+
+---
+
+# 🔗 Connect With Me
+
+<p align="center">
+<a href="https://twitter.com/flavioclesio">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://linkedin.com/in/flavioclesio">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://medium.com/@flavioclesio">
+<img src="https://skillicons.dev/icons?i=medium"/>
+</a>
+
+<a href="https://flavioclesio.com">
+<img src="https://skillicons.dev/icons?i=devto"/>
+</a>
+</p>
+
+---
+
+# 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,go,java,scala,postgres,redis,kafka,docker,kubernetes,aws,gcp,terraform"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fclesio&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fclesio&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=fclesio&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fclesio&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# ✍️ Latest Writing
+
+<!-- BLOG-POST-LIST:START -->
+- Machine Learning Systems
+- Data Engineering Architecture
+- MLOps Practices
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+⭐️ From [Flavio Clesio](https://github.com/fclesio)
